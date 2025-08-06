@@ -1,0 +1,10 @@
+jupyterlab
+notebook
+ipykernel
+python-dotenv
+requests
+base64
+os
+pandas
+seaborn
+matplotlib
