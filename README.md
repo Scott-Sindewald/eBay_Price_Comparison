@@ -9,7 +9,7 @@ This project demonstrates how to use the **eBay Developer Sandbox APIs** in a da
 - Structured notebook format for portfolio presentation
 - Secure `.env` setup to manage API credentials
 
-## 🚫 What’s Not Included
+## What’s Not Included
 
 - No live marketplace data (Sandbox-only)
 - No use of the Taxonomy API (not supported in sandbox)
