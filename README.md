@@ -44,7 +44,11 @@ This is a personal portfolio project using eBay’s Sandbox API, which provides 
 ## Project Structure
 .
 ├── eBay_Price_Comparison.ipynb
+
 ├── .env               # (excluded via .gitignore)
+
 ├── .gitignore
+
 ├── README.md
+
 └── requirements.txt   # (optional, for pip install)
